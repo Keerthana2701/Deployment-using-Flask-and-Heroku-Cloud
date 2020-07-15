@@ -21,7 +21,7 @@ Create a app in heroku and use code from github to deploy.
 After deployment, heroku gives you the URL to hit the web API
 Once your application is deployed successfully, enter the command ‘heroku logs --tail’ to see the logs.
 ## Demo : 
-https://carpredictionapp1.herokuapp.com/predict
+https://carpredictionapp1.herokuapp.com/
 
 
 ![Demo](Demp.png)
