@@ -24,4 +24,4 @@ Once your application is deployed successfully, enter the command ‘heroku logs
 https://carpredictionapp1.herokuapp.com/
 
 
-![Demo](Demp.png)
+![Demo](https://github.com/Keerthana2701/CarSPPredictionApp-ML-Project-with-Deployment/blob/master/Demo.PNG)
